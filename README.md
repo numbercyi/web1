@@ -1,2 +1,2 @@
 # web1
-web1 study
+생활코딩 web1 study
